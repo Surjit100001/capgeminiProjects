@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="zerodha regression suite" duration-ms="70478" started-at="2021-04-18T13:44:15Z" finished-at="2021-04-18T13:45:26Z">
+    <groups>
+    </groups>
+    <test name="zerodha functional regression test" duration-ms="70478" started-at="2021-04-18T13:44:15Z" finished-at="2021-04-18T13:45:26Z">
+      <class name="Capgimni.qa.humana.PagesTest.HomepageTest">
+        <test-method status="PASS" signature="setuphome()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="setuphome" is-config="true" duration-ms="6668" started-at="2021-04-18T13:44:31Z" finished-at="2021-04-18T13:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuphome -->
+        <test-method status="PASS" signature="dropdownTest()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="dropdownTest" duration-ms="983" started-at="2021-04-18T13:44:37Z" finished-at="2021-04-18T13:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="tearDown" is-config="true" duration-ms="772" started-at="2021-04-18T13:44:38Z" finished-at="2021-04-18T13:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setuphome()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="setuphome" is-config="true" duration-ms="6594" started-at="2021-04-18T13:44:39Z" finished-at="2021-04-18T13:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuphome -->
+        <test-method status="PASS" signature="getTitleTest()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="getTitleTest" duration-ms="1057" started-at="2021-04-18T13:44:46Z" finished-at="2021-04-18T13:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="tearDown" is-config="true" duration-ms="797" started-at="2021-04-18T13:44:47Z" finished-at="2021-04-18T13:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setuphome()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="setuphome" is-config="true" duration-ms="8837" started-at="2021-04-18T13:44:47Z" finished-at="2021-04-18T13:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuphome -->
+        <test-method status="PASS" signature="verifychartTest()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="verifychartTest" duration-ms="1098" started-at="2021-04-18T13:44:56Z" finished-at="2021-04-18T13:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifychartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="tearDown" is-config="true" duration-ms="721" started-at="2021-04-18T13:44:57Z" finished-at="2021-04-18T13:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setuphome()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="setuphome" is-config="true" duration-ms="7225" started-at="2021-04-18T13:44:58Z" finished-at="2021-04-18T13:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuphome -->
+        <test-method status="PASS" signature="verifylinkdasTest()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="verifylinkdasTest" duration-ms="1056" started-at="2021-04-18T13:45:05Z" finished-at="2021-04-18T13:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylinkdasTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="tearDown" is-config="true" duration-ms="810" started-at="2021-04-18T13:45:06Z" finished-at="2021-04-18T13:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setuphome()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="setuphome" is-config="true" duration-ms="6350" started-at="2021-04-18T13:45:07Z" finished-at="2021-04-18T13:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuphome -->
+        <test-method status="PASS" signature="verifylinkhold()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="verifylinkhold" duration-ms="1990" started-at="2021-04-18T13:45:14Z" finished-at="2021-04-18T13:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylinkhold -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="tearDown" is-config="true" duration-ms="748" started-at="2021-04-18T13:45:16Z" finished-at="2021-04-18T13:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setuphome()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="setuphome" is-config="true" duration-ms="7186" started-at="2021-04-18T13:45:16Z" finished-at="2021-04-18T13:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuphome -->
+        <test-method status="PASS" signature="verifylinkorderTest()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="verifylinkorderTest" duration-ms="1309" started-at="2021-04-18T13:45:24Z" finished-at="2021-04-18T13:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylinkorderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Capgimni.qa.humana.PagesTest.HomepageTest@223d2c72]" name="tearDown" is-config="true" duration-ms="897" started-at="2021-04-18T13:45:25Z" finished-at="2021-04-18T13:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Capgimni.qa.humana.PagesTest.HomepageTest -->
+      <class name="Capgimni.qa.humana.PagesTest.LoginpageTest">
+        <test-method status="PASS" signature="brosetup()[pri:0, instance:Capgimni.qa.humana.PagesTest.LoginpageTest@36902638]" name="brosetup" is-config="true" duration-ms="6978" started-at="2021-04-18T13:44:15Z" finished-at="2021-04-18T13:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brosetup -->
+        <test-method status="PASS" signature="dologinTest()[pri:0, instance:Capgimni.qa.humana.PagesTest.LoginpageTest@36902638]" name="dologinTest" duration-ms="664" started-at="2021-04-18T13:44:23Z" finished-at="2021-04-18T13:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologinTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Capgimni.qa.humana.PagesTest.LoginpageTest@36902638]" name="teardown" is-config="true" duration-ms="681" started-at="2021-04-18T13:44:23Z" finished-at="2021-04-18T13:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="brosetup()[pri:0, instance:Capgimni.qa.humana.PagesTest.LoginpageTest@36902638]" name="brosetup" is-config="true" duration-ms="5690" started-at="2021-04-18T13:44:24Z" finished-at="2021-04-18T13:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brosetup -->
+        <test-method status="PASS" signature="getTitleTest()[pri:0, instance:Capgimni.qa.humana.PagesTest.LoginpageTest@36902638]" name="getTitleTest" duration-ms="11" started-at="2021-04-18T13:44:30Z" finished-at="2021-04-18T13:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Capgimni.qa.humana.PagesTest.LoginpageTest@36902638]" name="teardown" is-config="true" duration-ms="771" started-at="2021-04-18T13:44:30Z" finished-at="2021-04-18T13:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Capgimni.qa.humana.PagesTest.LoginpageTest -->
+    </test> <!-- zerodha functional regression test -->
+  </suite> <!-- zerodha regression suite -->
+</testng-results>

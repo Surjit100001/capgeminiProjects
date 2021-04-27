@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name= "zerodha regression suite">
+
+   <listeners>
+       <listener class-name= "Capgimni.qa.humana.listeners.ExtendReportListener"/>
+  </listeners>
+
+    <test name = "zerodha functional regression test">
+       <classes>
+       
+       <class name = "Capgimni.qa.humana.PagesTest.LoginpageTest"/>
+       <class name = "Capgimni.qa.humana.PagesTest.HomepageTest"/>
+       
+       </classes>
+     </test> 
+ </suite>

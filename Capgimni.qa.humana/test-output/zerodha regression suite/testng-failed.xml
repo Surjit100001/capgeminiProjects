@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [zerodha regression suite]">
+  <test thread-count="5" name="zerodha functional regression test(failed)">
+    <classes>
+      <class name="Capgimni.qa.humana.PagesTest.HomepageTest">
+        <methods>
+          <include name="verifylinkdasTest"/>
+          <include name="getTitleTest"/>
+          <include name="setuphome"/>
+          <include name="verifychartTest"/>
+          <include name="verifylinkhold"/>
+          <include name="tearDown"/>
+          <include name="verifylinkorderTest"/>
+        </methods>
+      </class> <!-- Capgimni.qa.humana.PagesTest.HomepageTest -->
+      <class name="Capgimni.qa.humana.PagesTest.LoginpageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="brosetup"/>
+          <include name="getTitleTest"/>
+          <include name="dologinTest"/>
+        </methods>
+      </class> <!-- Capgimni.qa.humana.PagesTest.LoginpageTest -->
+    </classes>
+  </test> <!-- zerodha functional regression test(failed) -->
+</suite> <!-- Failed suite [zerodha regression suite] -->
